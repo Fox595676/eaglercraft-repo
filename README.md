@@ -28,14 +28,8 @@ The shortcuts only work in ```N:\Downloads\eaglercraft-repo-main\eaglercraft-rep
 
 ![image](https://github.com/Fox595676/eaglercraft-repo/assets/81087203/e1436280-d76e-4289-ad70-47d36777e639)![image](https://github.com/Fox595676/eaglercraft-repo/assets/81087203/20397794-abb2-4b7d-93e1-627e4f054fb5)
 
-
-
-
-
 - Go to ```Properties``` > ```Change Icon``` > Find the icon and select it.
 - Go into the target section and change the second path to your new directory. Don't edit the Chrome launch unless you want a different browser.
-
-# Custom Icons
 
 If you want custom icons and have an image ready, it will need to be a .ico file. Go to [icoconverter.com](https://www.icoconverter.com/) and drop your files in. Follow the above steps to set the icon.
 
