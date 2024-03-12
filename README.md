@@ -4,6 +4,8 @@
 - Recording in E8 is possible, but you will have to view the file online using the ```viewrecordings``` tool in ```\Media```, and following the second shortcut editing step, except using a video file (```.webm```) instead.
 
 ![image](https://github.com/Fox595676/eaglercraft-repo/assets/81087203/ef1db4fe-2029-48d9-b58a-66feb611eb1c)
+![image](https://github.com/Fox595676/eaglercraft-repo/assets/81087203/0d5eaafa-bffe-4921-a959-6bae16a1c685)
+
 
 
 # Files to hide:
