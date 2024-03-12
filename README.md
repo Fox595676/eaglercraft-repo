@@ -15,7 +15,7 @@ The only files you need unhidden are the shortcuts```(.ink)```.
 
 # Shortcuts
 
-The shortcuts for starting the game only work in ```N:\Downloads\eaglercraft-repo-main\eaglercraft-repo-main\Versions```, so if you want to use them elsewhere or rename stuff, follow these steps:
+The shortcuts only work in ```N:\Downloads\eaglercraft-repo-main\eaglercraft-repo-main```, so if you want to use them elsewhere or rename stuff, follow these steps:
 - Go to ```Properties``` > ```Change Icon``` > Find the icon and select it.
 - Go into the target section and change the second path to your new directory. Don't edit the Chrome launch unless you want a different browser.
 
