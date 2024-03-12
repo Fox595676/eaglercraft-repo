@@ -1,14 +1,15 @@
-# Notice
+# Notices
 
-Due to the internet being annoying, you can't just download the file with all the stuff neat and hidden, so you will have to manually hide some files.
+- Due to the internet being annoying, you can't just download the file with all the stuff neat and hidden, so you will have to manually hide some files.
+- Recording in E8 is possible, but you will have to view the file online using the ```viewrecordings``` tool in ```\Media```, and following the second shortcut editing step, except using a video file (```.webm```) instead.
 
 # Files to hide:
 
-- Versions/Eaglercraft5.html
-- Versions/Eaglercraft8.html
-- Versions/EaglerCraft-Hacked-Client
-- Versions/mc.ico
-- Versions/eagler.ico
+- Versions\Eaglercraft5.html
+- Versions\Eaglercraft8.html
+- Versions\EaglerCraft-Hacked-Client
+- Versions\mc.ico
+- Versions\eagler.ico
 
 The only files you need unhidden are the shortcuts```(.ink)```.
 
