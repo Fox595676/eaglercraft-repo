@@ -5,6 +5,7 @@
 
 # Files to hide:
 
+![image](https://github.com/Fox595676/eaglercraft-repo/assets/81087203/410a6731-5a40-4be2-a098-dead2102577e)
 - Versions\Eaglercraft5.html
 - Versions\Eaglercraft8.html
 - Versions\EaglerCraft-Hacked-Client
