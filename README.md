@@ -1,5 +1,5 @@
 # 💬 Notices
-- ⚠️ **I BROKE THE SHORTCUTS AGAIN! I'll fix them next time I can, but for now just use the HTML files!** ⚠️
+- ⚠️ **I BROKE THE SHORTCUTS AGAIN! I'll fix them next time I can, but for now just use the HTML files!**
 - Due to the internet being annoying, you can't just download the file with all the stuff neat and hidden, so you will have to manually hide some files.
 - Recording in E8 is possible, but you will have to view the file online using the ```viewrecordings``` tool in ```\Media```, and following the second shortcut editing step, except using a video file (```.webm```) instead.
 
