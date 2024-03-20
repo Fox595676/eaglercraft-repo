@@ -2,6 +2,7 @@
 - ⚠️ **I BROKE THE SHORTCUTS AGAIN! I'll fix them next time I can, but for now just use the HTML files!**
 - Due to the internet being annoying, you can't just download the file with all the stuff neat and hidden, so you will have to manually hide some files.
 - Recording in E8 is possible, but you will have to view the file online using the ```viewrecordings``` tool in ```\Media```, and following the second shortcut editing step, except using a video file (```.webm```) instead.
+- If you're on a Chromebook, the shortcuts won't work, and if you already have the files downloaded and are trying to use them a second time, any files you try to open have to download first.
 
 ![image](https://github.com/Fox595676/eaglercraft-repo/assets/81087203/ef1db4fe-2029-48d9-b58a-66feb611eb1c)
 ![image](https://github.com/Fox595676/eaglercraft-repo/assets/81087203/0d5eaafa-bffe-4921-a959-6bae16a1c685)
