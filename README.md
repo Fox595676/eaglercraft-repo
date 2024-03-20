@@ -1,5 +1,5 @@
-# Notices
-
+# 💬 Notices
+- ⚠️ **I BROKE THE SHORTCUTS AGAIN! I'll fix them next time I can, but for now just use the HTML files!** ⚠️
 - Due to the internet being annoying, you can't just download the file with all the stuff neat and hidden, so you will have to manually hide some files.
 - Recording in E8 is possible, but you will have to view the file online using the ```viewrecordings``` tool in ```\Media```, and following the second shortcut editing step, except using a video file (```.webm```) instead.
 
@@ -8,7 +8,7 @@
 
 
 
-# Files to hide:
+# 👓 Files to hide:
 ![image](https://github.com/Fox595676/eaglercraft-repo/assets/81087203/8b6b6bb8-fdeb-4b52-9f52-66ada86c5aef)
 
 ![image](https://github.com/Fox595676/eaglercraft-repo/assets/81087203/410a6731-5a40-4be2-a098-dead2102577e)
@@ -22,7 +22,7 @@ Select the files, then go to ```Properties``` > ```Tick the Hidden button at the
 
 The only files you need unhidden are the shortcuts ```(.ink)```.
 
-# Shortcuts
+# 🔗 Shortcuts (broken for now)
 
 The shortcuts only work in ```N:\Downloads\eaglercraft-repo-main\eaglercraft-repo-main```, so if you want to use them elsewhere or rename stuff, follow these steps:
 
@@ -33,7 +33,7 @@ The shortcuts only work in ```N:\Downloads\eaglercraft-repo-main\eaglercraft-rep
 
 If you want custom icons and have an image ready, it will need to be a .ico file. Go to [icoconverter.com](https://www.icoconverter.com/) and drop your files in. Follow the above steps to set the icon.
 
-# Backups
+# ⏮️ Backups
 ![image](https://github.com/Fox595676/eaglercraft-repo/assets/81087203/f976f8f1-ca80-4f6b-bb3f-e352cbb3c5d1)![image](https://github.com/Fox595676/eaglercraft-repo/assets/81087203/823e657a-e1e9-4ddc-8999-8940aafaa120)![image](https://github.com/Fox595676/eaglercraft-repo/assets/81087203/c2645be8-03e5-497f-a778-b661f0746d2a)![image](https://github.com/Fox595676/eaglercraft-repo/assets/81087203/2cb39b87-9a6c-441f-a804-bb647de01602)
 
 
